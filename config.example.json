@@ -1,0 +1,17 @@
+{
+  "Player": "YourInGameName",
+  "Server": "1.2.3.4",
+  "Port": 16567,
+  "QueryPort": 29900,
+  "Hours": 6,
+  "Until": "",
+  "StopAtPlayers": 0,
+  "Duty": 40,
+  "Cores": 2,
+  "GraceMin": 3,
+  "LoginWaitSec": 60,
+  "MenuWaitSec": 45,
+  "GameRoot": "",
+  "NoMinimize": false,
+  "NoLowGfx": false
+}
